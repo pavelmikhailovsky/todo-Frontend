@@ -1,4 +1,4 @@
-.main {
+header {
     background-color: red;
 }
 
@@ -14,4 +14,12 @@ img {
 .profile_info {
     left: 50%;
     margin-left: 1150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
 }
